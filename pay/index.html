@@ -10,5 +10,17 @@
 <center>
 <p>Ручная оплата</p>
 <p><iframe src="https://money.yandex.ru/quickpay/shop-widget?writer=buyer&targets=&targets-hint=%D0%92%D0%B0%D1%88%20%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9&default-sum=&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=41001826527342" width="423" height="229" frameborder="0" allowtransparency="true" scrolling="no"></iframe></p>
-</center>
+<p><div class="kassa-widget-container"></div>
+<script type="text/javascript" src="https://kassa.cc/widget.js"></script>
+<script type="text/javascript">
+    createKassaWidget({
+        "ref": "465159ad687501f5ebb9de3141a9a4e4",
+        "border": "shadow",
+        "type": "",
+        "kassa": "blank",
+        "from": "YAMRUB",
+        "to": "ETH",
+        //"locale": "ru"
+    });
+</script></p></center>
 </html>
