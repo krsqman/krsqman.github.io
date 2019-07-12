@@ -1,0 +1,1 @@
+<div class="fb-like-box" data-href="<?=$company['fanpage']?>" data-width="420" data-height="280" data-show-faces="true" data-stream="true" data-show-border="false" data-header="false"></div>

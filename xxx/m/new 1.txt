@@ -1,0 +1,12 @@
+full màng hình
+width: 100%;
+min-width: 1200px;
+
+--banner--
+Fix theo kich thước 
+width: 100%;
+min-width: 1200px;
+-- hình anh
+mix-width: 100px;
+max
+
